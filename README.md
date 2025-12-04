@@ -38,7 +38,7 @@ student-perfomance-factors/
 │   └── student_perfomance_sample.csv
 │
 ├── docs/
-│   └── student_perfomance_sample.csv
+│   └── student_perfomance_factors_report.docx
 │
 ├── notebooks/
 │   ├── analysis_of_variance.ipynb
